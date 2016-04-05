@@ -1,0 +1,18 @@
+3 2 5 
+4 2 7 4
+subtract
+-1 5 6 3 7 9 1 8
+5 6 6 8 9 7
+add
+-2 5 6 jj 1 8
+5 6 6 8 9 7
+subtract
+3 2 5 3
+4 2 7 4
+add
+3 2 5 3
+4 2 7 4
+multiply
+3 2  6 0 
+4 2 7 4
+subtract
