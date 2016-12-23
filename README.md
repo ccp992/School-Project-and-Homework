@@ -1,2 +1,2 @@
 ﻿# School-Project-and-Homework
-﻿This is a copy for school homework
+﻿This is a copy for School Project and Homework
